@@ -272,13 +272,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "scrabble_score",
+      "name": "armstrong_numbers",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-01-02T20:05:08.160779Z",
+  "generated": "2023-01-02T20:05:13.391705Z",
   "generator": "pub",
   "generatorVersion": "2.18.6"
 }

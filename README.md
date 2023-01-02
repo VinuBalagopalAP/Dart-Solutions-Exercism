@@ -7,3 +7,4 @@
 2. [Two Fer](dart/two-fer/lib/two_fer.dart)
 3. [Leap](dart/leap/lib/leap.dart)
 4. [Scrabble Score](dart/scrabble-score/lib/scrabble_score.dart)
+5. [Armstrong Numbers](dart/armstrong-numbers/lib/armstrong_numbers.dart)
