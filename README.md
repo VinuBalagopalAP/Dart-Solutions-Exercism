@@ -10,3 +10,4 @@
 5. [Armstrong Numbers](dart/armstrong-numbers/lib/armstrong_numbers.dart)
 6. [High Scores](dart/high-scores/lib/high_scores.dart)
 7. [Difference of Squares](dart/difference-of-squares/lib/difference_of_squares.dart)
+8. [Bob](dart/bob/lib/bob.dart)
