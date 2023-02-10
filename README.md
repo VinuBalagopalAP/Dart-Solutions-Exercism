@@ -33,4 +33,4 @@
 | 28 | [Forth](dart/forth/forth.dart) | Dart | Easy | Jan 8, 2023 |
 | 29 | [Bob](dart/bob/bob.dart) | Dart | Easy | Jan 9, 2023 |
 | 30 | [Sum of Multiples](dart/sum-of-multiples/sum_of_multiples.dart) | Dart | Easy | Jan 10, 2023 |
-| 31 | [Windowing System](dart/windowing-system/windowing_system.dart) | Dart | Easy | Jan 31, 2023 |
+| 31 | [Windowing System](dart/windowing-system/windowing_system.dart) | Javascript | Easy | Jan 31, 2023 |
