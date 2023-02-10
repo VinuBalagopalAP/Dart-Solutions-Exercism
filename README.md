@@ -23,6 +23,7 @@
 | 18 | [Lasagna Master](javascript/lasagna-master/lasagna-master.js) | JavaScript | Easy | Dec 29, 2022 |
 | 19 | [Elyses Transformative Enchantments](javascript/elyses-transformative-enchantments/elyses-transformative-enchantments.js) | JavaScript | Easy | Dec 30, 2022 |
 | 20 | [Custom Signs](javascript/custom-signs/custom-signs.js) | JavaScript | Easy | Dec 31, 2022 |
+| - | - | - | - | - |
 | 21 | [Hello World](dart/hello-world/hello_world.dart) | Dart | Easy | Jan 1, 2023 |
 | 22 | [Two Fer](dart/two-fer/two_fer.dart) | Dart | Easy | Jan 2, 2023 |
 | 23 | [Leap](dart/leap/leap.dart) | Dart | Easy | Jan 3, 2023 |
@@ -33,4 +34,5 @@
 | 28 | [Forth](dart/forth/forth.dart) | Dart | Easy | Jan 8, 2023 |
 | 29 | [Bob](dart/bob/bob.dart) | Dart | Easy | Jan 8, 2023 |
 | 30 | [Sum of Multiples](dart/sum-of-multiples/sum_of_multiples.dart) | Dart | Easy | Jan 8, 2023 |
+| - | - | - | - | - |
 | 31 | [Windowing System](dart/windowing-system/windowing_system.dart) | Javascript | Easy | Jan 31, 2023 |
