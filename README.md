@@ -26,11 +26,11 @@
 | 21 | [Hello World](dart/hello-world/hello_world.dart) | Dart | Easy | Jan 1, 2023 |
 | 22 | [Two Fer](dart/two-fer/two_fer.dart) | Dart | Easy | Jan 2, 2023 |
 | 23 | [Leap](dart/leap/leap.dart) | Dart | Easy | Jan 3, 2023 |
-| 24 | [Scrabble Score](dart/scrabble-score/scrabble_score.dart) | Dart | Easy | Jan 4, 2023 |
-| 25 | [Armstrong Numbers](dart/armstrong-numbers/armstrong_numbers.dart) | Dart | Easy | Jan 5, 2023 |
-| 26 | [High Scores](dart/high-scores/high_scores.dart) | Dart | Easy | Jan 6, 2023 |
-| 27 | [Difference Of Squares](dart/difference-of-squares/difference_of_squares.dart) | Dart | Easy | Jan 7, 2023 |
+| 24 | [Scrabble Score](dart/scrabble-score/scrabble_score.dart) | Dart | Easy | Jan 3, 2023 |
+| 25 | [Armstrong Numbers](dart/armstrong-numbers/armstrong_numbers.dart) | Dart | Easy | Jan 3, 2023 |
+| 26 | [High Scores](dart/high-scores/high_scores.dart) | Dart | Easy | Jan 7, 2023 |
+| 27 | [Difference Of Squares](dart/difference-of-squares/difference_of_squares.dart) | Dart | Easy | Jan 8, 2023 |
 | 28 | [Forth](dart/forth/forth.dart) | Dart | Easy | Jan 8, 2023 |
-| 29 | [Bob](dart/bob/bob.dart) | Dart | Easy | Jan 9, 2023 |
-| 30 | [Sum of Multiples](dart/sum-of-multiples/sum_of_multiples.dart) | Dart | Easy | Jan 10, 2023 |
+| 29 | [Bob](dart/bob/bob.dart) | Dart | Easy | Jan 8, 2023 |
+| 30 | [Sum of Multiples](dart/sum-of-multiples/sum_of_multiples.dart) | Dart | Easy | Jan 8, 2023 |
 | 31 | [Windowing System](dart/windowing-system/windowing_system.dart) | Javascript | Easy | Jan 31, 2023 |
