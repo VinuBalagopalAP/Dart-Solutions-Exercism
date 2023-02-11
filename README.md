@@ -35,4 +35,4 @@
 | 29 | [Bob](dart/bob/lib/bob.dart) | Dart | Easy | Jan 8, 2023 |
 | 30 | [Sum of Multiples](dart/sum-of-multiples/lib/sum_of_multiples.dart) | Dart | Easy | Jan 8, 2023 |
 | - | - | - | - | - |
-| 31 | [Windowing System](dart/windowing-system/windowing_system.dart) | Javascript | Easy | Jan 31, 2023 |
+| 31 | [Windowing System](javascript/windowing-system/windowing-system.js) | Javascript | Easy | Jan 31, 2023 |
