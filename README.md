@@ -36,3 +36,4 @@
 | 30 | [Sum of Multiples](dart/sum-of-multiples/lib/sum_of_multiples.dart) | Dart | Easy | Jan 8, 2023 |
 | - | - | - | - | - |
 | 31 | [Windowing System](javascript/windowing-system/windowing-system.js) | Javascript | Easy | Jan 31, 2023 |
+| 32 | [Factory Sensors](javascript/factory-sensors/factory-sensors.js) | Javascript | Easy | Feb 11, 2023 |
