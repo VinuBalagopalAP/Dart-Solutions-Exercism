@@ -8,7 +8,9 @@
  */
 
 export function isValidCommand(command) {
-  throw new Error('Please implement the isValidCommand function');
+  /// here '/^chatbot/i' is the regular expression which test the input command has the regex with checks also it's case sensitive too
+
+  return /^chatbot/i.test(command);
 }
 
 /**
@@ -18,7 +20,8 @@ export function isValidCommand(command) {
  * @returns {string} The message without the emojis encryption
  */
 export function removeEmoji(message) {
-  throw new Error('Please implement the removeEmoji function');
+  /// here  emoji[0-9] is the regular expression which replace the input message with the regex
+  return message.replace(/emoji[0-9]+/g, "");
 }
 
 /**
@@ -28,7 +31,10 @@ export function removeEmoji(message) {
  * @returns {string} the Chatbot response to the phone Validation
  */
 export function checkPhoneNumber(number) {
-  throw new Error('Please implement the checkPhoneNumber function');
+  ///  regex is (+##) ###-###-### , where # represents a digit .
+  return /[(+##) ###-###-###]/.test(number)
+    ? "Thanks! You can now download me to your phone."
+    : `Oops, it seems like I can't reach out to ${number}`;
 }
 
 /**
@@ -38,7 +44,8 @@ export function checkPhoneNumber(number) {
  * @returns {string[] | null} all the possible URL's that the user may have answered
  */
 export function getURL(userInput) {
-  throw new Error('Please implement the userInput function');
+  /// words that consist of a sequence of word characters (\w*) separated by a period (.)
+  return userInput.match(/\w*\.\w*/g);
 }
 
 /**
@@ -48,5 +55,6 @@ export function getURL(userInput) {
  * @returns {string} Greeting from the chatbot
  */
 export function niceToMeetYou(fullName) {
-  throw new Error('Please implement the fullName function');
+  /// split the string by the comma and a whitespace and reverse the array and join it by space
+  return `Nice to meet you, ${fullName.split(", ").reverse().join(" ")}`;
 }
