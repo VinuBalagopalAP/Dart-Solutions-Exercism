@@ -37,3 +37,4 @@
 | - | - | - | - | - |
 | 31 | [Windowing System](javascript/windowing-system/windowing-system.js) | Javascript | Easy | Jan 31, 2023 |
 | 32 | [Factory Sensors](javascript/factory-sensors/factory-sensors.js) | Javascript | Easy | Feb 11, 2023 |
+| 32 | [Regular Chatbot](javascript/regular-chatbot/regular-chatbot.js) | Javascript | Easy | Feb 13, 2023 |
